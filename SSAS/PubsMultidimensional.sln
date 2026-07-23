@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "PubsMultidimensional", "PubsMultidimensional.dwproj", "{5CFDB5B4-6E34-639D-DDCD-BDCE1AAB36E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CFDB5B4-6E34-639D-DDCD-BDCE1AAB36E3}.Development|Default.ActiveCfg = Development
+		{5CFDB5B4-6E34-639D-DDCD-BDCE1AAB36E3}.Development|Default.Build.0 = Development
+		{5CFDB5B4-6E34-639D-DDCD-BDCE1AAB36E3}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B880F981-91B7-4CBF-BEB1-F4BE47170E75}
+	EndGlobalSection
+EndGlobal
