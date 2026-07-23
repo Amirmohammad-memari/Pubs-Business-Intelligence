@@ -289,7 +289,7 @@ Pubs-Business-Intelligence
 │   └── SSIS Packages (.dtsx)
 │
 └── SSAS
-    ├── PubsMultidimensional.smproj
+    ├── PubsMultidimensional.dwproj
     ├── PubsMultidimensional.sln
     ├── Cubes
     ├── Dimensions
