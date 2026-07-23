@@ -1,0 +1,21 @@
+USE [PubsDW]
+GO
+
+/****** Object:  Table [dbo].[DimPayterms]    Script Date: 7/24/2026 1:33:54 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[DimPayterms](
+	[PaytermsSK] [int] IDENTITY(1,1) NOT NULL,
+	[payterms] [varchar](12) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[PaytermsSK] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
